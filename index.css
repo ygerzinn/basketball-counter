@@ -1,0 +1,42 @@
+body {
+    background-color: #0284C7;
+    margin:0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+h2 {
+  font-size: 50px;}
+  
+#home-score {
+         background-color: #080001;
+        padding: 25px;
+        font-weight: bold;
+        color: #BE123C;
+        margin-bottom: 5px;
+        border-radius: 5px;
+    }
+    
+#away-score {
+         background-color: #080001;
+        padding: 25px;
+        font-weight: bold;
+        color: #BE123C;
+        margin-bottom: 5px;
+        border-radius: 5px;
+    }
+    
+button {
+    border: none;
+    padding: 5px;
+    color: black;
+    font-weight: bold;
+    width: 35px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
